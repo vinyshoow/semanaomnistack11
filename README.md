@@ -1,9 +1,26 @@
-![logo](https://user-images.githubusercontent.com/60045489/77828219-e5556280-70f8-11ea-8ce9-b7a97c6e79de.png)
-# Projeto Be The Hero
-## Aplicação Desenvolvida na Semana Omnistack11 [Rocketseat](https://rocketseat.com.br) :rocket::rocket:
-###  Linguagens Utilizadas na aplicação: Node.JS, ReactJS e ReactNative
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/60045489/77828219-e5556280-70f8-11ea-8ce9-b7a97c6e79de.png" alt="Be The Hero">
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<h1 align="center">
+  Projeto Be The Hero
+  <img src="https://user-images.githubusercontent.com/60045489/77853930-6fff9580-71bd-11ea-864f-c1a1d631ca3b.png" alt=""
+</h1>
+
+
+## Aplicação Desenvolvida na Semana Omnistack11 [Rocketseat](https://rocketseat.com.br) :rocket::rocket:
+
+
+## :rocket: Techs
+
+This project was developed with the following technologies:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+<br>
 
 ## Available Scripts
 
