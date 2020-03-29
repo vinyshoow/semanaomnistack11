@@ -12,9 +12,10 @@
 ## Aplicação Desenvolvida na Semana Omnistack11 [Rocketseat](https://rocketseat.com.br) :rocket::rocket:
 
 
-## :rocket: Techs
+## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -22,27 +23,20 @@ This project was developed with the following technologies:
 - [Expo](https://expo.io/)
 <br>
 
-## Available Scripts
+## Scripts disponíveis
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Executa o aplicativo no modo de desenvolvimento.<br>
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+A página será recarregada se você fizer edições.<br>
 
-### `npm test`
+## 
+Pacotes adicionais para react native<br>
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-
-Launches the test runner in the interactive watch mode.<br>
-
-## Additional packages for react native
 ### `expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
 
-To run the application on the physical device, install the Expo app
+Para executar o aplicativo no dispositivo físico, instale o Framework Expo
