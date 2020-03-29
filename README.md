@@ -9,7 +9,10 @@
 </h1>
 
 
-## Aplicação Desenvolvida na Semana Omnistack11 [Rocketseat](https://rocketseat.com.br) :rocket::rocket:
+## Aplicação Desenvolvida na Semana Omnistack11 [Rocketseat](https://rocketseat.com.br) :rocket::rocket:<br>
+
+## 💻 Projeto
+Be The Hero consiste numa aplicação que vai conectar pessoas que tem vontade de ajudar a ONGS(Organização não governamental), de forma monetária, com ajuda de qualquer tipo que determinada ONG informar no aplicativo.
 
 
 ## :rocket: Tecnologias
